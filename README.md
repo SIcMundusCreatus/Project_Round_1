@@ -1,2 +1,2 @@
 # Project_Round_1
-Pos Tagging of text files
+In this project we have chose two texts T1 and T2, namely, "The Hounds of Baskerville", by Sir Arthur Conan Doyle and "Pride and Prejudice", by Jane Austen respectively, on which we perform simple text pre-processing steps and tokenization. We aim to analyze the frequency distribution of tokens in T1 and T2 separately, and represent them via pictorial means using the word cloud. Finally we evaluate the relationship between the word length and frequency for both T1 and T2.
